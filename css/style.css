@@ -84,6 +84,9 @@
   background-color: #333;
   color: #fff; }
 
+#contact .border {
+  border: 1px #ddd solid; }
+
 #main-footer {
   color: #fff;
   background-color: #000; }
