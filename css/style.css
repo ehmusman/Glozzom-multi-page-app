@@ -3,7 +3,8 @@
   text-transform: uppercase;
   padding: 0 1rem !important; }
 .navbar .nav-item.active {
-  border-bottom: 1px solid #ddd; }
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 10px; }
 
 #showcase .carousel-item {
   height: 450px; }

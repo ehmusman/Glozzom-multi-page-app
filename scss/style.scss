@@ -5,7 +5,8 @@
         padding: 0 1rem !important;
     }
     .nav-item.active {
-        border-bottom: 1px solid #ddd;
+        border-bottom: 2px solid #ddd;
+        padding-bottom: 10px;
     }
 }
 
