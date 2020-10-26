@@ -94,3 +94,25 @@
         margin-top: -50px;
     }
 }
+
+// Service Section
+#service {
+    .footer {
+        background: #ddd;
+    }
+}
+
+// FAQ Section
+#faq {
+    .card {
+        border: #444;
+    }
+    a {
+        color: #fff;
+        text-decoration: none;
+    }
+    .card-body,
+    .card-header {
+        background-color: #444;
+    }
+}
